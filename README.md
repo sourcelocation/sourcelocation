@@ -14,4 +14,5 @@
  - Chess
  
 ⚡ Fun fact: I'm learning a new language/framework/library almost every single week - trying out everything :)
+
 📖 Discord server: For support and help https://discord.gg/VyVcNjRMeg
