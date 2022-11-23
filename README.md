@@ -6,7 +6,7 @@
 
 🛠️ **Swift, Dart, Git**, TS & JS, Python and more:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&username=sourcelocation&layout=compact&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=161b22&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&username=sourcelocation&layout=compact&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=161b22&hide_border=false)
 
 💡 Always searching for new creative ideas to be used in personal projects. Here are my active projects:
  - TrollTools
