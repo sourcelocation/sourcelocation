@@ -8,4 +8,4 @@
 
 📖 Discord server: For support and help https://discord.gg/VyVcNjRMeg
 
-♡ Support me: https://ko-fi.com/sourcelocation
+❤️ Support me: https://ko-fi.com/sourcelocation
