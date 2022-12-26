@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📱 I'm a 15 year old software developer who is interested in **jailbreaks**, **fronend** and **backend**
+📱 I'm a 15 year old software developer who is interested in **jailbreaks**, **frontend** and **backend**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourcelocation&layout=compact&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=161b22&hide_border=true)
 
