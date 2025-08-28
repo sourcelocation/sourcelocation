@@ -8,6 +8,6 @@
 
 📖 Discord server: For support and help https://discord.gg/VyVcNjRMeg
 
-📖 Owner of a 100K+ user fullstack app - Picasso: https://repo.sourceloc.net/package/picasso
+📖 Owner of a 100K+ user fullstack app - Picasso
 
 ❤️ Support me: https://ko-fi.com/sourcelocation
