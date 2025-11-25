@@ -12,7 +12,7 @@
 
 ###
 
-<p>👋 Yooo! I'm Matt, currently studying AI Engineering at a university. I made dozens projects ranging from a 100k+ iOS customization app to full-fledged action game on Steam.</p>
+<p>👋 Yooo! I'm Matt, currently studying AI Engineering at a university. I made dozens projects ranging from a 100k+ user iOS customization app to full-fledged action game on Steam.</p>
 <p>Hit me up if you need help with something :)</p>
 
 <h3 align="left">AI Engineering</h3>
